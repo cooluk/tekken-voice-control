@@ -75,6 +75,8 @@ j.update()
 
 
 # ELECTRIC
+
+
 time.sleep(0.20)
 wAxisX = 0x8000 #6
 #j.data.wAxisY = wAxisY
